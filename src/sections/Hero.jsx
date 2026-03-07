@@ -87,7 +87,7 @@ export const Hero = () => {
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
               <AnimatedBorderButton>
-                <Download /> Download CV
+                <Download className="w-5 h-5" /> Download CV
               </AnimatedBorderButton>
             </div>
 
